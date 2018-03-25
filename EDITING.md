@@ -16,6 +16,8 @@
 
 [Company page](#company-page-edit)
 
+[Shoboi](#shoboi)
+
 # Living in the database, database
 
 I hear you're now an editor, welcome, welcome. Hopefully this guide will help you on your journey to climbing to the top of the leaderboard, young adventurer.
