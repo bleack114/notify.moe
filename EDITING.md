@@ -18,11 +18,11 @@
 
 [Shoboi](#shoboi)
 
-# Living in the database, database
+## Living in the database, database
 
 I hear you're now an editor, welcome, welcome. Hopefully this guide will help you on your journey to climbing to the top of the leaderboard, young adventurer.
 
-# Introduction
+## Introduction
 
 Ok, on to the actual guide. You've probably noticed by now that you have 2 new menu options
 
@@ -33,7 +33,7 @@ Ok, on to the actual guide. You've probably noticed by now that you have 2 new m
 2. Editor - now this is where the fun stuff happens
 
 
-# Plot twist - Anime edit page
+## Plot twist - Anime edit page
 
 Before the fun stuff you must first learn the basics. **Edits are saved by pressing Tab, Enter or just by clicking outside of the field**. Anyway, when you go to a media page you'll see 2 buttons. The button we care about here is `Edit anime`.
 
@@ -115,7 +115,7 @@ Same logic, Just take the ID from the URL and you're done.
 
 6. History - Shows the changes done to tha specific entry, works the same way as the log.
 
-# Editor menu
+## Editor menu
 
 Ok, this is where we get down to business. When you open that menu you'll be greeted with this page. I call it the e-peen page and I love it. Who doesn't like growing their e-peen ;)
 
@@ -131,10 +131,9 @@ But first I need to mention this. It works just like the explore page so don't o
 
 ![image](https://user-images.githubusercontent.com/7947042/37802661-142728be-2e34-11e8-9c98-684f31426ec1.png)
 
-## MAL
+### MAL
 
 ![image](https://user-images.githubusercontent.com/7947042/37795537-69d39976-2e1d-11e8-861d-d929198b02e7.png)
-
 
 This is where we compare our data with MAL's. As you can see, you can filter out based on year, airing status and media type. It's useful for preparing for upcoming seasons and when finishing up current seasons, but it's also good if you're on an editing spree because you can set small goals for yourself  instead of facing it all.
 
@@ -142,26 +141,25 @@ This is where we compare our data with MAL's. As you can see, you can filter out
 
 This is what you'll see when there's a difference. What you do with the information displayed is left up to your judgement and the information you can get on other sites, such as: MAL, Anilist, Anidb, ANN and Shoboi. The icons are fairly standard. The edit icon opens the entry in a new tab in editing mode, the icon next to it opens the MAL page for it and the trash icon will result in ignoring the difference displayed until there's new data. Also, it has a confirmation dialogue so don't worry about misscliks.
 
-## Tracks
+### Tracks
 
 ![image](https://vgy.me/pAe1hc.png)
 
 Tracks that have no iTunes or Amazon links.
 
-## Companies
+### Companies
 
 Just companies that have no description.
 
 ![image](https://vgy.me/SJn5xb.png)
 
-
-## Kitsu
+### Kitsu
 
 ![image](https://vgy.me/9JksvW.png)
 
 New anime on Kitsu - press import to import.
 
-## Anime
+### Anime
 
 Here you're presented with a new menu
 
@@ -183,8 +181,7 @@ Duplicate displays entries that share the same ID.
 
 You have 2 submenus there. Low-Res are images the size of which I just mentioned. Ultra Low-Res....let's just say it's not pretty
 
-
-# Company page edit
+## Company page edit
 
 It's pretty simple. The name opens a new tab and the Clicking on the search icon opens a new Wikipedia tab with a search for the name and clicking
 
@@ -226,7 +223,7 @@ You take those coordinates and paste them like this
 ![image](https://vgy.me/fhNXfP.png)
 
 
-# Shoboi
+## Shoboi
 
 Ok, so first thing you do is go to . Then you copy the Japanese and enter it into what is clearly a search and hope it finds what you're searching for. Like this
 
