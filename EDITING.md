@@ -7,7 +7,7 @@
 - [Anime](#anime)
 - [Companies](#companies)
 - [Kitsu](#kitsu)
--[Company page](#company-page-edit)
+- [Company page](#company-page-edit)
 
 
 - [Installation](INSTALLATION.md)
