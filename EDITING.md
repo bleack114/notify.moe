@@ -1,12 +1,14 @@
 # Table of contents
 
 [Anime page](#plot-twist---anime-edit-page) 
+
 [Editor menu](#editor-menu)
 * [MAL](#mal)
 * [Tracks](#tracks)
 * [Anime](#anime)
 * [Companies](#companies)
 * [Kitsu](#kitsu)
+
 [Company page](#company-page-edit)
 
 # Living in the database, database
