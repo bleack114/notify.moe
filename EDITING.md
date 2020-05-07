@@ -3,13 +3,21 @@
 [Anime page](#plot-twist---anime-edit-page) 
 
 [Editor menu](#editor-menu)
-* [MAL](#mal)
-* [Tracks](#tracks)
-* [Anime](#anime)
+- [MAL](#mal)
+- [Tracks](#tracks)
+- [Anime](#anime)
 * [Companies](#companies)
 * [Kitsu](#kitsu)
 
 [Company page](#company-page-edit)
+
+
+- [Installation](INSTALLATION.md)
+- [Project Management](https://github.com/animenotifier/notify.moe/projects/10)
+- [Code Style](CODE_STYLE.md)
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+
 
 # Living in the database, database
 
