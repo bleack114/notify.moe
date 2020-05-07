@@ -1,28 +1,19 @@
 # Table of contents
 
 [Anime page](#plot-twist---anime-edit-page)
-
 [Editor menu](#editor-menu)
-
 * [MAL](#mal)
-
 * [Tracks](#tracks)
-
 * [Anime](#anime)
-
 * [Companies](#companies)
-
 * [Kitsu](#kitsu)
-
 [Company page](#company-page-edit)
 
-[Shoboi](#shoboi)
-
-## Living in the database, database
+# Living in the database, database
 
 I hear you're now an editor, welcome, welcome. Hopefully this guide will help you on your journey to climbing to the top of the leaderboard, young adventurer.
 
-## Introduction
+# Introduction
 
 Ok, on to the actual guide. You've probably noticed by now that you have 2 new menu options
 
@@ -33,7 +24,7 @@ Ok, on to the actual guide. You've probably noticed by now that you have 2 new m
 2. Editor - now this is where the fun stuff happens
 
 
-## Plot twist - Anime edit page
+# Plot twist - Anime edit page
 
 Before the fun stuff you must first learn the basics. **Edits are saved by pressing Tab, Enter or just by clicking outside of the field**. Anyway, when you go to a media page you'll see 2 buttons. The button we care about here is `Edit anime`.
 
@@ -65,13 +56,13 @@ Synonyms: click the `+` button and a box will show up, just write/paste in it an
 
 ![image](https://vgy.me/qpu8hC.png)
 
-Summary: eh, you know what a summary is. Just pick the best one and if your source is not MAL or Kitsu then write down which it is. If it's either of the 2 a bot will later add that info
+Summary: eh, you know what a summary is. Just pick the best one and if your source is not MAL or Kitsu then write down which it is. If it's either of the 2 a bot will later add that info.
 
 Status: a drop down menu with 4 options: current, finished, upcoming and to be announced. The important part here is that upcoming means that it's starting next season and to be announced means that we don't know when it's going to start airing.
 
 ![image](https://vgy.me/vkfXeh.png)
 
-Genres work the same way synonyms.
+Genres work the same way as synonyms.
 
 ![image](https://vgy.me/bcB7HH.png)
 
@@ -79,7 +70,7 @@ The format for the dates is year-month-day. The best place to get the informatio
 
 ![image](https://vgy.me/TLk2rx.png)
 
-Shoboi has the most reliable episode count, after that it's Anilist and then MAL. The last 2 also have the most reliable information for episode length, but MAL can be questionable in that aspect. Source is source.
+Shoboi has the most reliable episode count, after that it's Anilist and then MAL. The last 2 also have the most reliable information for episode length, but MAL can be questionable in that aspect. 
 
 ![image](https://vgy.me/Y5wEHr.png)
 
@@ -87,7 +78,7 @@ This is where the PV goes. Service is a drop down that works the same way as whe
 
 ![image](https://user-images.githubusercontent.com/7947042/37799409-4735d02c-2e28-11e8-89ee-5e8dd992efad.png)
 
-All mappings work the same way. The service can be `shoboi/anime`, `anilist/anime`, `myanimelist/anime`, `thetvdb/anime` and`anidb/anime`. The ID is the corresponding number. If you need help for finding IDs on the different services ask in chat.
+All mappings work the same way. The services are quite a lot so if you need help for finding IDs on the different services ask in chat. The ID is the corresponding number for each service.
 
 ![image](https://vgy.me/MEPOaR.png)
 
@@ -99,7 +90,7 @@ Whew, that takes care of the most tedious part <3
 
 ![image](https://user-images.githubusercontent.com/7947042/37800003-2727e6f6-2e2a-11e8-897c-b4cfa80df076.png)
 
-Pretty simple. You upload a file.
+Pretty simple. You upload a file. Posters without text are preferable, but images with a higher resolutions have the highest priority. 
 
 4. Characters
 
@@ -115,7 +106,7 @@ Same logic, Just take the ID from the URL and you're done.
 
 6. History - Shows the changes done to tha specific entry, works the same way as the log.
 
-## Editor menu
+# Editor menu
 
 Ok, this is where we get down to business. When you open that menu you'll be greeted with this page. I call it the e-peen page and I love it. Who doesn't like growing their e-peen ;)
 
@@ -131,9 +122,10 @@ But first I need to mention this. It works just like the explore page so don't o
 
 ![image](https://user-images.githubusercontent.com/7947042/37802661-142728be-2e34-11e8-9c98-684f31426ec1.png)
 
-### MAL
+## MAL
 
 ![image](https://user-images.githubusercontent.com/7947042/37795537-69d39976-2e1d-11e8-861d-d929198b02e7.png)
+
 
 This is where we compare our data with MAL's. As you can see, you can filter out based on year, airing status and media type. It's useful for preparing for upcoming seasons and when finishing up current seasons, but it's also good if you're on an editing spree because you can set small goals for yourself  instead of facing it all.
 
@@ -141,25 +133,26 @@ This is where we compare our data with MAL's. As you can see, you can filter out
 
 This is what you'll see when there's a difference. What you do with the information displayed is left up to your judgement and the information you can get on other sites, such as: MAL, Anilist, Anidb, ANN and Shoboi. The icons are fairly standard. The edit icon opens the entry in a new tab in editing mode, the icon next to it opens the MAL page for it and the trash icon will result in ignoring the difference displayed until there's new data. Also, it has a confirmation dialogue so don't worry about misscliks.
 
-### Tracks
+## Tracks
 
 ![image](https://vgy.me/pAe1hc.png)
 
 Tracks that have no iTunes or Amazon links.
 
-### Companies
+## Companies
 
 Just companies that have no description.
 
 ![image](https://vgy.me/SJn5xb.png)
 
-### Kitsu
+
+## Kitsu
 
 ![image](https://vgy.me/9JksvW.png)
 
 New anime on Kitsu - press import to import.
 
-### Anime
+## Anime
 
 Here you're presented with a new menu
 
@@ -173,7 +166,7 @@ Duplicate displays entries that share the same ID.
 
 2. Genres - Anime entries that don't have any genres. At all.
 
-3. Start date - idk, guess?
+3. Start date -  ¯\\\_(ツ)_/¯
 
 4. Images - Ok, so here's the deal. A lot of anime have horribly low resolution posters. We're talking about 200x350 here. It's really bad looking and we're working on fixing that.
 
@@ -181,55 +174,18 @@ Duplicate displays entries that share the same ID.
 
 You have 2 submenus there. Low-Res are images the size of which I just mentioned. Ultra Low-Res....let's just say it's not pretty
 
-## Company page edit
 
-It's pretty simple. The name opens a new tab and the Clicking on the search icon opens a new Wikipedia tab with a search for the name and clicking
+# Company page edit
 
-![image](https://vgy.me/lDpNKV.png)
+It's pretty simple. Yell at Bleack to add any info you want added.
 
-It's pretty simple. Never ever change the English name. As for the Japanese name, there's something specific to know about. Let's use `株式会社プロダクションアイムズ` as an example. You don't need the `株式会社` part (literally means company). Just copy this `プロダクションアイムズ`
+# Shoboi
 
-![image]( https://vgy.me/tQhPyR.png)
-
-Same logic as getting the ID for shows from MAL.
-![image](https://vgy.me/ZS4B50.png)
-
-Links are done in this specific order and format.
-
-![image](https://vgy.me/NGyNfZ.png)
-
-Now it gets complicated. These are the navigational coordinates for a studio and getting them is a bitch
-
-First you go to the official site, which is usually linked on Wikipedia. When you get there and get your hopes crushed and see that the site doesn’t have an English option you start searching for the about section. Sometimes the address is in company or contacts so check those if you can’t find it initially. Also, I recommend taking advantage of this. You may not know Japanese, but you definitely know English…I hope
-
-![image](https://vgy.me/uy7y1o.png)
-
-Usually you’ll be a greeted by a page that looks like this
-
-![image](https://vgy.me/On1WMd.png)
-
-This is the part where you go to your old friend Google Translate and admit defeat. Once you find out which field is the address I recommend switching back to Japanese, opening up Google Maps and begin searching.  Once you think you’ve found it (and if you’re not sure ask in chat) right click on the location and go to “What’s here?”. Like this
-
-![image](https://vgy.me/XoOKd4.png)
-
-A box looking like this will pop up
-
-![image](https://vgy.me/U2ppx6.png)
-
-Generally speaking if you’re looking at coordinates different from 35.XXXXXX, 139.XXXXXX then you’ve landed in the wrong country through some magic.
-
-You take those coordinates and paste them like this
-
-![image](https://vgy.me/fhNXfP.png)
-
-
-## Shoboi
-
-Ok, so first thing you do is go to . Then you copy the Japanese and enter it into what is clearly a search and hope it finds what you're searching for. Like this
+Ok, so first thing you do is go to http://cal.syoboi.jp/. Then you copy the Japanese name and enter it the search field at the top left of the page and hope it finds what you're searching for. Like this
 
 ![image](https://vgy.me/zAbqxB.png)
 
-What you see after you click on that? I got no clue what that page is about and it doesn't matter. If you're there for the ID - great, it's in the URL. If you're checking airing dates - go here
+After clicking on the result that matches the title you pasted you'll be taken to a new page. If you're there for the ID - great, it's in the URL. If you're checking airing dates - go here
 
 ![image](https://vgy.me/7PMgFe.png)
 
