@@ -1,6 +1,6 @@
 # Table of contents
 
-[Anime page](#plot-twist---anime-edit-page)
+[Anime page](#plot-twist---anime-edit-page) 
 [Editor menu](#editor-menu)
 * [MAL](#mal)
 * [Tracks](#tracks)
